@@ -1,4 +1,4 @@
-# creator is busy on collabvm so make your own coding, collabators.
+# discontinued
 # collabvm-fix
 fix cullabvem issues
 # tf dus this werk?
